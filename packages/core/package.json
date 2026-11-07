@@ -93,7 +93,7 @@
     "@handlewithcare/prosemirror-inputrules": "^0.1.4",
     "@shikijs/types": "^3",
     "@tanstack/store": "^0.7.7",
-    "@tiptap/core": "^3.13.0",
+    "@tiptap/core": "^3.33.0",
     "@tiptap/extension-bold": "^3.13.0",
     "@tiptap/extension-code": "^3.13.0",
     "@tiptap/extensions": "^3.13.0",
@@ -114,7 +114,7 @@
     "prosemirror-state": "^1.4.4",
     "prosemirror-tables": "^1.8.3",
     "prosemirror-transform": "^1.10.5",
-    "prosemirror-view": "^1.41.4",
+    "prosemirror-view": "^1.42.3",
     "rehype-format": "^5.0.1",
     "rehype-parse": "^9.0.1",
     "rehype-remark": "^10.0.1",
@@ -139,9 +139,9 @@
     "rimraf": "^5.0.10",
     "rollup-plugin-webpack-stats": "^0.2.6",
     "typescript": "^5.9.3",
-    "vite": "^5.4.20",
+    "vite": "^6.4.5",
     "vite-plugin-eslint": "^1.8.1",
-    "vitest": "^2.1.9"
+    "vitest": "^5.1.0"
   },
   "peerDependencies": {
     "@hocuspocus/provider": "^2.15.2 || ^3.0.0"
