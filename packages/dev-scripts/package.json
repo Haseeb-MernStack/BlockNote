@@ -22,7 +22,7 @@
     "@types/react": "^19.2.3",
     "@types/react-dom": "^19.2.3",
     "eslint": "^8.57.1",
-    "glob": "^10.5.0",
+    "glob": "^14.0.2",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "tinyglobby": "0.2.12",
